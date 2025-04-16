@@ -24,11 +24,9 @@ A smart AI-powered web tool that extracts structured product data (crop name and
 ]
 
 ##Screenshots
-![](C:/Users/taani/OneDrive/Pictures/Screenshots/Screenshot%202025-04-16%20162623.png)
-![](C:\Users\taani\OneDrive\Pictures\Screenshots\Screenshot 2025-04-16 162650.png)
-![](C:\Users\taani\OneDrive\Pictures\Screenshots\Screenshot 2025-04-16 163259.png)
-
-
+![Screenshot 1](https://github.com/your-username/your-repo-name/raw/main/assets/Screenshot%202025-04-16%20162623.png)
+![Screenshot 2](https://github.com/your-username/your-repo-name/raw/main/assets/Screenshot%202025-04-16%20162650.png)
+![Screenshot 3](https://github.com/taanisha/Product-Extraction/blob/main/Screenshot%202025-04-16%20163259.png)
 
 
 

@@ -33,18 +33,19 @@ A smart AI-powered web tool that extracts structured product data (crop name and
 
 
 ## Setup Instructions
-
-#Clone the repository
+bash
+# Clone the repository
 git clone https://github.com/your-username/hydroponic-crop-scraper.git
 cd hydroponic-crop-scraper
 
-#Install dependancies
+# Install dependencies
 pip install -r requirements.txt
 
-# Add API Keys in .env File
+# Add API keys in a .env file
 
-#Run the App
+# Run the Streamlit app
 streamlit run app.py
+
 
 
 

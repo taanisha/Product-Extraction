@@ -23,12 +23,12 @@ A smart AI-powered web tool that extracts structured product data (crop name and
   { "product": "Spinach Baby", "price_per_kg": 125 }
 ]
 
-##Screenshots
-![Screenshot 1](https://github.com/your-username/your-repo-name/raw/main/assets/Screenshot%202025-04-16%20162623.png)
-![Screenshot 2](https://github.com/your-username/your-repo-name/raw/main/assets/Screenshot%202025-04-16%20162650.png)
-![Screenshot 3](https://github.com/taanisha/Product-Extraction/blob/main/Screenshot%202025-04-16%20163259.png)
+## 📸 Screenshots
 
 
+![Input 1](https://github.com/your-username/repo/blob/main/screenshots/input.png?raw=true)
+![Input 1](https://github.com/your-username/repo/blob/main/screenshots/processing.png?raw=true)
+![Input 2](https://github.com/your-username/repo/blob/main/screenshots/results.png?raw=true) 
 
 
 ## Setup Instructions

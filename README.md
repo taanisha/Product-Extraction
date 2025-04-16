@@ -22,6 +22,7 @@ A smart AI-powered web tool that extracts structured product data (crop name and
   { "product": "Lettuce Butterhead", "price_per_kg": 160 },
   { "product": "Spinach Baby", "price_per_kg": 125 }
 ]
+```
 
 ## 🛠️ Setup Instructions
 

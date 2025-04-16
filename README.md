@@ -23,6 +23,16 @@ A smart AI-powered web tool that extracts structured product data (crop name and
   { "product": "Spinach Baby", "price_per_kg": 125 }
 ]
 ```
+## 📸 Screenshots
+
+### Screenshot 1 
+![Screenshot 1](https://github.com/user-attachments/assets/0f26c09a-f498-4fd0-9467-dc9c183f0619)
+
+### Screenshot 2 
+![Screenshot 2](https://github.com/user-attachments/assets/5bad1093-eeb8-41a3-bd8a-7ab2338f2590)
+
+### Screenshot 3
+![Screenshot 3](https://github.com/user-attachments/assets/12a45f60-c1cc-4eea-84ef-cc8952fbbfbd)
 
 ## 🛠️ Setup Instructions
 

@@ -1,5 +1,5 @@
 # Product-Extraction
-# 🌿 Smart Hydroponic Crop Scraper
+# Smart Crop Scraper
 
 A smart AI-powered web tool that extracts structured product data (crop name and price per kg) from hydroponic e-commerce websites. Built using **Firecrawl** for web scraping and **Mistral via OpenRouter** for natural language parsing, all wrapped inside a user-friendly **Streamlit** app.
 
@@ -24,9 +24,9 @@ A smart AI-powered web tool that extracts structured product data (crop name and
 ]
 
 ##Screenshots
-![WhatsApp Image 2025-04-16 at 16 26 39_04feffd2](https://github.com/user-attachments/assets/0f26c09a-f498-4fd0-9467-dc9c183f0619)
-![WhatsApp Image 2025-04-16 at 16 27 00_725d7551](https://github.com/user-attachments/assets/5bad1093-eeb8-41a3-bd8a-7ab2338f2590)
-![WhatsApp Image 2025-04-16 at 16 33 12_61ff8a83](https://github.com/user-attachments/assets/12a45f60-c1cc-4eea-84ef-cc8952fbbfbd)
+<img ![WhatsApp Image 2025-04-16 at 16 26 39_04feffd2](https://github.com/user-attachments/assets/0f26c09a-f498-4fd0-9467-dc9c183f0619)>
+<img ![WhatsApp Image 2025-04-16 at 16 27 00_725d7551](https://github.com/user-attachments/assets/5bad1093-eeb8-41a3-bd8a-7ab2338f2590)>
+<img ![WhatsApp Image 2025-04-16 at 16 33 12_61ff8a83](https://github.com/user-attachments/assets/12a45f60-c1cc-4eea-84ef-cc8952fbbfbd)>
 
 
 

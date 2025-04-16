@@ -1,7 +1,7 @@
 # Product-Extraction
 # Smart Crop Scraper
 
-A smart AI-powered web tool that extracts structured product data (crop name and price per kg) from hydroponic e-commerce websites. Built using **Firecrawl** for web scraping and **Mistral via OpenRouter** for natural language parsing, all wrapped inside a user-friendly **Streamlit** app.
+A smart AI-powered web tool that extracts structured product data (crop name and price per unit) from e-commerce websites. Built using **Firecrawl** for web scraping and **Mistral via OpenRouter**, all wrapped inside a user-friendly **Streamlit** app.
 
 ---
 
